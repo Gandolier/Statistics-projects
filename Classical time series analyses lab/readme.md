@@ -1,1 +1,1 @@
-This is a classical time series analysis using statistical methods and bootstrap simulations lab.
+This is a classical time series analysis lab using statistical methods and bootstrap simulations.
