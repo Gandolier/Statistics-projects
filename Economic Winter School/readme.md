@@ -1,2 +1,2 @@
-*Saudi Arabia development strategy*
+# Saudi Arabia development strategy
 This is a reposetory for code for my case championship-winning statistical project on the topic of Saudi Arabia development strategy. It involves a VECM-based forecast of oil exports-imports of SA and a wavelet spectrum analysis of the temperature inuced death rate anomalies 
